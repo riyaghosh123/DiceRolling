@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Julee&family=Lato:wght@300&family=Merriweather+Sans&family=Montserrat:wght@800&family=Playfair+Display&family=Poppins:ital,wght@0,600;0,700;1,600&family=Roboto:ital@1&family=Sacramento&family=Sassy+Frass&family=Zeyada&display=swap');
+
+
+body{
+    text-align: center;
+    background-color: #698269;
+}
+.main{
+    display: flex;
+    margin-left: 400px;
+}
+.dice{
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.caption{
+    margin-top: 100px;
+    
+}
+p{
+   
+    font-family: 'Julee', cursive;
+    font-size: 20px;
+}
+h1{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 40px;
+}
